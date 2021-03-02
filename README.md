@@ -5,7 +5,7 @@ Panoramic Semantic Segmentation in the Wild
 
 [**WildPASS2K Dataset**](https://drive.google.com/file/d/1c9pQJe9OJcvW24rRg9pSTSgvCRklKuvv/view?usp=sharing)
 
-The WildPASS dataset contains annotated 500 panoramas taken from 25 cities for evaludation.
+The WildPASS dataset contains annotated 500 panoramas taken from 25 cities located on multiple continents for evaludation.
 
 The WildPASS2K dataset contains 2000 unlabled panoramas taken from 40 cities, which can be used for facilitating domain adapation and creating pseudo labels.
 
