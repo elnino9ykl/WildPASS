@@ -21,7 +21,28 @@ K. Yang, J. Zhang, S. Reiß, X. Hu, R. Stiefelhagen.
 In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Nashville, TN, United States (Virtual), June 2021.
 [[**PDF**](https://arxiv.org/pdf/2103.05687.pdf)]
 
+```
+@inproceedings{yang2021capturing,
+title={Capturing Omni-Range Context for Omnidirectional Segmentation},
+author={Yang, Kailun and Zhang, Jiaming and Rei{\ss}, Simon and Hu, Xinxin and Stiefelhagen, Rainer},
+booktitle={2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+year={2021}
+}
+```
+
 **Is Context-Aware CNN Ready for the Surroundings? Panoramic Semantic Segmentation in the Wild.**
 K. Yang, X. Hu, R. Stiefelhagen.
 IEEE Transactions on Image Processing (**TIP**), 2021.
 [[**PDF**](http://www.yangkailun.com/publications/tip2021_kailun.pdf)]
+
+```
+@article{yang2021context,
+title={Is Context-Aware CNN Ready for the Surroundings? Panoramic Semantic Segmentation in the Wild},
+author={Yang, Kailun and Hu, Xinxin and Stiefelhagen, Rainer},
+journal={IEEE Transactions on Image Processing},
+volume={30},
+pages={1866--1881},
+year={2021},
+publisher={IEEE}
+}
+```
