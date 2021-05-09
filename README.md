@@ -13,7 +13,7 @@ For training, we suggest to use [**Mapillary Vistas**](https://drive.google.com/
 
 ![Example segmentation](figure_wildpass.jpg?raw=true "Example segmentation")
 
-# Publications
+## Publications
 If you use our code or dataset, please consider citing any of the following papers:
 
 **Capturing Omni-Range Context for Omnidirectional Segmentation.**
