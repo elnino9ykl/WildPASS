@@ -12,3 +12,16 @@ The WildPASS2K dataset contains 2000 unlabled panoramas taken from 40 cities, wh
 For training, we suggest to use [**Mapillary Vistas**](https://drive.google.com/file/d/1c9pQJe9OJcvW24rRg9pSTSgvCRklKuvv/view?usp=sharing), or with a combination of [**IDD20K**](https://idd.insaan.iiit.ac.in/), [**Cityscapes**](https://www.cityscapes-dataset.com/), [**ApolloScape**](http://apolloscape.auto/scene.html), [**BDD10K**](https://bdd-data.berkeley.edu/), [**Audi A2D2**](https://www.a2d2.audi/a2d2/en.html), [**KITTI**](http://www.cvlibs.net/datasets/kitti/eval_semantics.php), [**KITTI-360**](http://www.cvlibs.net/datasets/kitti-360/), and [**WildDash2**](https://wilddash.cc/) datasets. 
 
 ![Example segmentation](figure_wildpass.jpg?raw=true "Example segmentation")
+
+# Publications
+If you use our code or dataset, please consider citing any of the following papers:
+
+**Capturing Omni-Range Context for Omnidirectional Segmentation.**
+K. Yang, J. Zhang, S. Reiß, X. Hu, R. Stiefelhagen.
+In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Nashville, TN, United States (Virtual), June 2021.
+[[**PDF**](https://arxiv.org/pdf/2103.05687.pdf)]
+
+**Is Context-Aware CNN Ready for the Surroundings? Panoramic Semantic Segmentation in the Wild.**
+K. Yang, X. Hu, R. Stiefelhagen.
+IEEE Transactions on Image Processing (**TIP**), 2021.
+[[**PDF**](http://www.yangkailun.com/publications/tip2021_kailun.pdf)]
