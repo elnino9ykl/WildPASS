@@ -13,6 +13,20 @@ For training, we suggest to use [**Mapillary Vistas**](https://drive.google.com/
 
 ![Example segmentation](figure_wildpass.jpg?raw=true "Example segmentation")
 
+**Example**
+```
+CUDA_VISIBLE_DEVICES=0
+python3 eval_color_fusion.py
+--datasets 'MAP' 'IDD20K'
+--is-fuse
+--basedir /cvhci/data/
+--subset val
+--loadDir ../trained_models/
+--loadWeights model_best.pth
+--loadModel ecanet.py
+--datadir /cvhci/data/WildPASS
+```
+
 ## Publications
 If you use our code or dataset, please consider citing any of the following papers:
 
