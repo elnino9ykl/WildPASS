@@ -1,7 +1,9 @@
 # WildPASS
 Panoramic Semantic Segmentation in the Wild
 
-[**WildPASS Dataset**](https://drive.google.com/file/d/1yHCdhe45IzDcHarYPKCdZCzwWR0PGdAF/view?usp=sharing)
+[**WildPASS Dataset**](https://drive.google.com/file/d/1DEIOpwdtWxdUBnvBXqe1KxzW-qez_KSY/view?usp=sharing)
+
+[**WildPASS Dataset with City Names**](https://drive.google.com/file/d/1yHCdhe45IzDcHarYPKCdZCzwWR0PGdAF/view?usp=sharing)
 
 [**WildPASS2K Dataset**](https://drive.google.com/file/d/1c9pQJe9OJcvW24rRg9pSTSgvCRklKuvv/view?usp=sharing)
 
