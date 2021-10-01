@@ -1,3 +1,6 @@
+# Training
+Multi-Source Omni-Supervised Learning Regimen for Omnidirectional Semantic Segmentation
+
 **Example**
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3
