@@ -1,8 +1,6 @@
 # WildPASS
 Panoramic Semantic Segmentation in the Wild
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/capturing-omni-range-context-for/semantic-segmentation-on-densepass)](https://paperswithcode.com/sota/semantic-segmentation-on-densepass?p=capturing-omni-range-context-for)
-
 [**WildPASS Dataset**](https://drive.google.com/file/d/1DEIOpwdtWxdUBnvBXqe1KxzW-qez_KSY/view?usp=sharing)
 
 [**WildPASS Dataset with City Names**](https://drive.google.com/file/d/1yHCdhe45IzDcHarYPKCdZCzwWR0PGdAF/view?usp=sharing)
