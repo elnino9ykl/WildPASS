@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/capturing-omni-range-context-for/semantic-segmentation-on-densepass)](https://paperswithcode.com/sota/semantic-segmentation-on-densepass?p=capturing-omni-range-context-for)
+
 # WildPASS
 Panoramic Semantic Segmentation in the Wild
 
